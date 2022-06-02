@@ -8,5 +8,8 @@
     background-color: #2E86C1;
 }
 .justy{
+    text-align: justify;
+}
+.centro{
     text-align: center;
 }
